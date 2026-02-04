@@ -2,7 +2,7 @@ module.exports = function PluginServerSideRenderer (app, dir, config) {
     /*
      *
      * app is the express app
-     * dir is the current-working-directory of the server or mostly the root of TheVideoTrain
+     * dir is the current-working-directory of the server or usually the root of TheVideoTrain
      * config is the config.json file as a javascript object
      * 
      */
